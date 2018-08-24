@@ -1,2 +1,1 @@
-# auto-configure-hello
-创建自定义springboot自动化配置
+    完成springboot风格的自定义自动化配置实现HelloAutoConfiguration

@@ -1,0 +1,2 @@
+#spring自动加载
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.springboot.autoconfigure.demo.autoconfigure.HelloAutoConfiguration
